@@ -14,4 +14,4 @@ Après activation de GitHub Pages (branche `main`, dossier `/root`) :
 - https://plioucha.github.io/garde-alternee-site/confidentialite.html
 - https://plioucha.github.io/garde-alternee-site/support.html
 
-Courriel de contact (support et confidentialité) : `d9yyjr9m+support-appgardealternee@mail.grokbot.com`.
+Courriel de contact (support et confidentialité) : `d9yyjr9m@mail.grokbot.com`.
