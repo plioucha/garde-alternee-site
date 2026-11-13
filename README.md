@@ -14,4 +14,4 @@ Après activation de GitHub Pages (branche `main`, dossier `/root`) :
 - https://plioucha.github.io/garde-alternee-site/confidentialite.html
 - https://plioucha.github.io/garde-alternee-site/support.html
 
-Le courriel de contact est encore le placeholder `CONTACT_EMAIL_A_DEFINIR`. Il faudra le remplacer dans `confidentialite.html` et `support.html` avant la soumission à Apple.
+Courriel de contact (support et confidentialité) : `d9yyjr9m+support-appgardealternee@mail.grokbot.com`.
